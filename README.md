@@ -1,5 +1,4 @@
-### Hi there, I'm Orlov Mykyta(Nikita) 👋
-
+### Hi there, I'm Mykyta Orlov 👋
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=orlovmyk&show_icons=true&theme=github_dark" />
 </div>
