@@ -1,7 +1,7 @@
 ### Hi there, I'm Orlov Mykyta(Nikita) 👋
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=s3rius&show_icons=true&theme=blueberry" />
+    <img src="https://github-readme-stats.vercel.app/api?username=orlovmyk&show_icons=true&theme=github_dark" />
 </div>
 
 <!--
