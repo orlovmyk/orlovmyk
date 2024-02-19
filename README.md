@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Orlov Mykyta(Nikita) 👋
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=s3rius&show_icons=true&theme=blueberry" />
+</div>
 
 <!--
 **orlovmyk/orlovmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
