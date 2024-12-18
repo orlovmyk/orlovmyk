@@ -11,7 +11,7 @@
 <br>
 <div align="center">
     <b>CTO</b> at
-    <b><a href="https://github.com/Pineapple-Of-Evolution">Pineapple Of Evolution</a> 🍍</b>
+    <b><a href="https://pnapple.com">Pineapple Of Evolution</a> 🍍</b>
 </div>
 
 
