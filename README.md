@@ -1,7 +1,13 @@
-### Hi there, I'm Mykyta Orlov 👋
+
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=orlovmyk&show_icons=true&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=orlovmyk&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 </div>
+
+<div align="center">
+    <img src="https://profile-counter.glitch.me/orlovmyk/count.svg">
+</div>
+
 
 <!--
 **orlovmyk/orlovmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
