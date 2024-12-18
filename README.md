@@ -10,7 +10,7 @@
 
 <br>
 <div align="center">
-    <b>COO</b> at
+    <b>building </b>
     <b><a href="https://pnapple.com">Pineapple Of Evolution</a> 🍍</b>
 </div>
 
