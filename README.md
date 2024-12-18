@@ -10,9 +10,8 @@
 
 <br>
 <div align="center">
-    Working on
-    <br>
-    <b>🍍 <a href="https://github.com/Pineapple-Of-Evolution">Pineapple Of Evolution</a></b>
+    <b>CTO</b> at
+    <b><a href="https://github.com/Pineapple-Of-Evolution">Pineapple Of Evolution</a> 🍍</b>
 </div>
 
 
