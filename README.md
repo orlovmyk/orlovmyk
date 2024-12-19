@@ -10,9 +10,9 @@
 
 <br>
 <div align="center">
-    <i>launching</i>
+    <b>|</b>
     <b>🍍<a href="https://pnapple.com">Pineapple Of Evolution</a></b>
-    <i>into space</i>
+    <b>|</b>
 </div>
 
 
