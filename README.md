@@ -10,9 +10,7 @@
 
 <br>
 <div align="center">
-    <b>|</b>
     <b>🍍<a href="https://pnapple.com">Pineapple Of Evolution</a></b>
-    <b>|</b>
 </div>
 
 
