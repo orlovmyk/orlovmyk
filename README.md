@@ -4,10 +4,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=orlovmyk&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 </div>
 
-<div align="center">
-    <img src="https://profile-counter.glitch.me/orlovmyk/count.svg">
-</div>
-
 <br>
 <div align="center">
     <b>🍍<a href="https://pnapple.com">Pineapple Of Evolution</a></b>
